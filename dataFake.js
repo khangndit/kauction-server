@@ -103,7 +103,7 @@ module.exports = [
     images: [
       '/images/products/16.jpeg',
       '/images/products/17.jpeg',
-      '/images/products/18.jpeg',
+      '/images/products/18.png',
       '/images/products/19.jpeg',
       '/images/products/20.png',
     ],
